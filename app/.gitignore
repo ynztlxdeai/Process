@@ -5,6 +5,7 @@
 
 # Files for the ART/Dalvik VM
 *.dex
+release/
 
 # Java class files
 *.class
@@ -44,6 +45,3 @@ captures/
 
 
 local.*
-
-app/.externalNativeBuild/
-
